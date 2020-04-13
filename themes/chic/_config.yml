@@ -1,5 +1,5 @@
 # Header
-navname: Bentham's Blog
+navname: Code Pilgrim
 
 # navigatior items
 nav:
@@ -12,11 +12,11 @@ nav:
 favicon: /favicon.ico
 
 # Profile
-nickname: Jeremy Bentham
+nickname: Ricardo Soares
 
 ### this variable is MarkDown form.
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
-avatar: /image/avatar.jpeg
+description: Machine Learning Engineer @ Fractal Labs<br>*Living where Engineering flirts with Data Science*
+avatar: /image/avatar.png
 
 # main menu navigation
 ## links key words should not be changed.
@@ -27,14 +27,14 @@ links:
   # Category:
   # Tags: 
   # Link:
-  # Resume:
+  Resume:
   # Publish:
   # Trophy:
   # Gallery:
   # RSS:
   # AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
-  # LinkedIn:
+  # ZhiHu: https://www.zhihu.com/people/sirice
+  LinkedIn: https://www.linkedin.com/in/rmssoares/
   # FaceBook:
   # Twitter:
   # Skype:
@@ -43,13 +43,13 @@ links:
   # Sketch:
   # Gitlab:
   # Dribbble:
-  Instagram:
-  Reddit:
+  # Instagram:
+  # Reddit:
   # YouTube:
   # QQ:
   # Weibo:
   # WeChat:
-  Github: https://github.com/Siricee
+  Github: https://github.com/rmssoares
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
